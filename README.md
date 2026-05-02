@@ -9,7 +9,6 @@ I am mainly interested in security operations, incident response, vulnerability 
 - SOC analysis and incident response
 - Vulnerability management and contextual triage
 - Security tooling and small automation projects
-- Linux, Docker, tmux, and Neovim workflows
 - Technical documentation and lab notes
 
 ## What You Will Find Here
@@ -22,7 +21,7 @@ Most of the repositories on this profile fall into one of these categories:
 - workflow and automation experiments
 - work in progress prototypes
 
-I try to keep things honest: not every repository is finished, and not every project is meant to be production-ready.
+I try to keep things honest: not every repository is finished^^
 
 ## Tools and Topics
 
@@ -32,8 +31,6 @@ Some of the tools and topics I work with or study:
 - Microsoft Sentinel
 - KQL
 - QRadar
-- TheHive
-- Jira
 - Linux
 - Docker
 - Bash
@@ -47,13 +44,13 @@ Right now, I am especially focused on:
 - building cleaner and more useful security automation
 - getting better at Windows and Active Directory security
 - documenting labs in a way that stays useful and public-safe
-- exploring IoT, BLE, and embedded security with realistic lab setups
+- exploring IoT, BLE, and embedded security
 
 ## Featured Repositories
 
 For now, my public profile is still a work in progress. One of the repositories currently available is:
 
-- [latex_report](https://github.com/iliasbezzaz/latex_report) - LaTeX-based school reports and technical writing experiments used to structure coursework and documentation
+- [latex_report](https://github.com/whiskyberber/latex_report) - LaTeX-based school reports and technical writing experiments used to structure coursework and documentation
 
 I am progressively cleaning and curating more repositories before putting them forward here.
 
@@ -70,5 +67,5 @@ Topics I may write more about over time:
 
 ## Contact
 
-- GitHub: [@iliasbezzaz](https://github.com/iliasbezzaz)
+- GitHub: [@iliasbezzaz](https://github.com/whiskyberber)
 - LinkedIn: [ilias-bezzaz](https://linkedin.com/in/ilias-bezzaz)
