@@ -67,5 +67,5 @@ Topics I may write more about over time:
 
 ## Contact
 
-- GitHub: [@iliasbezzaz](https://github.com/whiskyberber)
+- GitHub: [@whiskyberber](https://github.com/whiskyberber)
 - LinkedIn: [ilias-bezzaz](https://linkedin.com/in/ilias-bezzaz)
