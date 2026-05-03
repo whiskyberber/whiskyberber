@@ -2,57 +2,22 @@
 
 Cybersecurity engineering student at ISEP and apprentice cybersecurity consultant.
 
-My work is mostly centered on security operations, incident response, vulnerability management, and Linux-based workflows. I also spend time building labs, cleaning technical notes, and learning more about Windows and Active Directory security, IoT, BLE, and embedded systems.
+My background started with electrical engineering and industrial computing before moving toward cybersecurity, networks and systems. I keep a strong interest in technical security audits, IoT and embedded security, network security, and low-level technical topics.
 
-## What I use this GitHub for
+I use this GitHub to organize technical reports, coursework, lab notes, small tools and experiments. Some repositories are clean, others are still being improved, but the goal is to keep useful technical material in one place and show how my work evolves over time.
 
-Most of what I publish here falls into one of a few buckets:
+I am currently building a broader cybersecurity profile around systems, networks and embedded-oriented security.
 
-- coursework and technical reports worth keeping clean
-- lab notes and revision material
-- small practical tools or automation experiments
-- workflow improvements around Linux, terminals, and documentation
-- work in progress projects that are still taking shape
+## Selected work
 
-I try to keep the repositories honest. Some are polished enough to read comfortably. Some are still rough, but useful.
-
-## Main areas of interest
-
-- SOC analysis and incident response
-- vulnerability management and contextual triage
-- security tooling and small automation
-- Linux-based workflows and documentation
-- Active Directory and Windows security
-- IoT, BLE, and embedded security
-
-## A few things you may find here
-
-- cybersecurity coursework and reports
-- Wireshark and traffic analysis material
-- authentication and social engineering notes
-- telecom and network engineering coursework
-- small LaTeX-based technical writing projects
-
-## Currently learning
-
-Right now I am mostly trying to get better at:
-
-- investigation methodology in SOC and incident response work
-- writing cleaner and more useful technical documentation
-- building small tools that actually save time
-- Windows and Active Directory security in lab settings
-- embedded and wireless security topics I have not explored deeply yet
-
-## Featured repositories
-
-A few repositories I am progressively cleaning and curating:
-
-- [security-analysis-coursework](https://github.com/whiskyberber/security-analysis-coursework)
-- [security-coursework](https://github.com/whiskyberber/security-coursework)
-- [digital-communications-receiver-project](https://github.com/whiskyberber/digital-communications-receiver-project)
-- [4g-network-planning-report](https://github.com/whiskyberber/4g-network-planning-report)
+| Repository | Topic |
+|---|---|
+| [security-analysis-coursework](https://github.com/whiskyberber/security-analysis-coursework) | Security analysis coursework and notes |
+| [security-coursework](https://github.com/whiskyberber/security-coursework) | Cybersecurity coursework and revision material |
+| [digital-communications-receiver-project](https://github.com/whiskyberber/digital-communications-receiver-project) | Digital communications and signal processing |
+| [4g-network-planning-report](https://github.com/whiskyberber/4g-network-planning-report) | 4G network planning and dimensioning |
 
 ## Contact
 
-- GitHub: [@whiskyberber](https://github.com/whiskyberber)
-- LinkedIn: [ilias-bezzaz](https://linkedin.com/in/ilias-bezzaz)
+GitHub: [@whiskyberber](https://github.com/whiskyberber)  
+LinkedIn: [ilias-bezzaz](https://linkedin.com/in/ilias-bezzaz)
