@@ -1,69 +1,56 @@
-# Hi, I'm Ilias Bezzaz
+# Ilias Bezzaz
 
 Cybersecurity engineering student at ISEP and apprentice cybersecurity consultant.
 
-I am mainly interested in security operations, incident response, vulnerability management, Linux-based workflows, and practical security labs. I also spend time learning Active Directory security, IoT, BLE, and embedded security.
+My work is mostly centered on security operations, incident response, vulnerability management, and Linux-based workflows. I also spend time building labs, cleaning technical notes, and learning more about Windows and Active Directory security, IoT, BLE, and embedded systems.
 
-## Focus Areas
+## What I use this GitHub for
+
+Most of what I publish here falls into one of a few buckets:
+
+- coursework and technical reports worth keeping clean
+- lab notes and revision material
+- small practical tools or automation experiments
+- workflow improvements around Linux, terminals, and documentation
+- work in progress projects that are still taking shape
+
+I try to keep the repositories honest. Some are polished enough to read comfortably. Some are still rough, but useful.
+
+## Main areas of interest
 
 - SOC analysis and incident response
-- Vulnerability management and contextual triage
-- Security tooling and small automation projects
-- Technical documentation and lab notes
+- vulnerability management and contextual triage
+- security tooling and small automation
+- Linux-based workflows and documentation
+- Active Directory and Windows security
+- IoT, BLE, and embedded security
 
-## What You Will Find Here
+## A few things you may find here
 
-Most of the repositories on this profile fall into one of these categories:
+- cybersecurity coursework and reports
+- Wireshark and traffic analysis material
+- authentication and social engineering notes
+- telecom and network engineering coursework
+- small LaTeX-based technical writing projects
 
-- learning projects
-- lab notes and technical summaries
-- small practical tools
-- workflow and automation experiments
-- work in progress prototypes
+## Currently learning
 
-I try to keep things honest: not every repository is finished^^
+Right now I am mostly trying to get better at:
 
-## Tools and Topics
+- investigation methodology in SOC and incident response work
+- writing cleaner and more useful technical documentation
+- building small tools that actually save time
+- Windows and Active Directory security in lab settings
+- embedded and wireless security topics I have not explored deeply yet
 
-Some of the tools and topics I work with or study:
+## Featured repositories
 
-- Microsoft Defender
-- Microsoft Sentinel
-- KQL
-- QRadar
-- Linux
-- Docker
-- Bash
-- Python
+A few repositories I am progressively cleaning and curating:
 
-## Currently Learning
-
-Right now, I am especially focused on:
-
-- improving investigation methodology for SOC and incident response work
-- building cleaner and more useful security automation
-- getting better at Windows and Active Directory security
-- documenting labs in a way that stays useful and public-safe
-- exploring IoT, BLE, and embedded security
-
-## Featured Repositories
-
-For now, my public profile is still a work in progress. One of the repositories currently available is:
-
-- [latex_report](https://github.com/whiskyberber/latex_report) - LaTeX-based school reports and technical writing experiments used to structure coursework and documentation
-
-I am progressively cleaning and curating more repositories before putting them forward here.
-
-## Public Writing Direction
-
-Topics I may write more about over time:
-
-- SOC investigation methodology
-- KQL learning notes
-- vulnerability triage in context
-- Active Directory lab notes
-- Linux tooling for cybersecurity
-- IoT and BLE security experiments
+- [security-analysis-coursework](https://github.com/whiskyberber/security-analysis-coursework)
+- [security-coursework](https://github.com/whiskyberber/security-coursework)
+- [digital-communications-receiver-project](https://github.com/whiskyberber/digital-communications-receiver-project)
+- [4g-network-planning-report](https://github.com/whiskyberber/4g-network-planning-report)
 
 ## Contact
 
